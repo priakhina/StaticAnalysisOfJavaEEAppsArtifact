@@ -20,6 +20,10 @@ The results of the experiment have been obtained by running the analysis on the 
 
 I was able to successfully reproduced the results for **Figure 4.  App methods reachability for Doop and JackEE** and **Table 1. Precision+speed metrics**.
 
+The result of my analysis for Figure 4 is located in `analysis-results-app-reachability.md`. 
+
+The result of my analysis for Table 1 is located in `analysis-results-precision.md`. For Table 1, I marked the values that did not match with those provided in the paper (they are marked as bold).
+
 
 # Running the Artifact
 
