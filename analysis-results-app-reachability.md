@@ -1,0 +1,31 @@
+<table>
+    <thead>
+        <tr>
+            <th>Application</th>
+            <th>Doop</th>
+            <th>JackEE</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>pybbs</td>
+            <td>0.0</td>
+            <td>66.2</td>
+        </tr>
+        <tr>
+            <td>shopizer</td>
+            <td>20.9</td>
+            <td>69.6</td>
+        </tr>
+        <tr>
+            <td>SpringBlog</td>
+            <td>7.5</td>
+            <td>55.5</td>
+        </tr>
+        <tr>
+            <td>WebGoat</td>
+            <td>32.6</td>
+            <td>49.6</td>
+        </tr>
+    </tbody>
+</table>
